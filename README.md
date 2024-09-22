@@ -7,14 +7,17 @@ The idea behind this repo is to write down and test a series of examples on Opti
 The following is a basic example on how to find the optimal quantity to produce given *Demand Function* and *Marginal Cost*.
 
 Given the price function and marginal cost, we want to know what is the optimal quantity to produce
+
 $$
 p = 100-Q \ and \ MC=4
 $$
+
 We are a for-profit company and, conseguently, aim to maximize our profit. To do so, we need to identify our objective function and maximize it by choosing the most appropriate quantity.
 
 $$
 max_Q  ((100-Q)Q-4Q)
 $$
+
 Expanding the expression and applying the F.O.C we obtain
 
 $$
