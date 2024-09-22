@@ -33,7 +33,7 @@ $$
 Q^* = 48
 $$
 
-Below the **R** code that can be used to obtain the same result.
+Attached the **R** code that can be used to obtain the same result.
 
 n.b. It uses an interation up to 100, which is *not* perfect of course.
 
