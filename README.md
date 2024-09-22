@@ -35,6 +35,10 @@ $$
 
 Attached the **R** code that can be used to obtain the same result.
 
+![alt text](http://url/to/img.png)
+
+
+
 n.b. It uses an interation up to 100, which is *not* perfect of course.
 
 > You can find more information about my Research [here](https://sites.google.com/view/carmineapice/home).
