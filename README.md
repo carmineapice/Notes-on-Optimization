@@ -35,7 +35,7 @@ $$
 
 Attached the **R** code that can be used to obtain the same result.
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/carmineapice/Notes-on-Optimization/blob/main/img.png?raw=true)
 
 
 
