@@ -35,7 +35,9 @@ $$
 
 Attached the **R** code that can be used to obtain the same result.
 
-![alt text]([https://github.com/carmineapice/Notes-on-Optimization/blob/main/img.png?raw=true])
+![alt text](https://github.com/carmineapice/Notes-on-Optimization/blob/6bcb835fb79d085db429f43f8ef1b19db7d112a0/img.png)
+
+
 
 
 
